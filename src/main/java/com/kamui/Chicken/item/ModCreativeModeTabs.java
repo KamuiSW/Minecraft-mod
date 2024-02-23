@@ -21,7 +21,7 @@ public class ModCreativeModeTabs {
             .title(Component.translatable("creativetab.chicken_tab"))
             .displayItems((pParameters, pOutput) ->{
                 pOutput.accept(ModItems.dark_flame.get());
-                pOutput.accept(ModBlocks.TEST_BLOCK.get());
+                pOutput.accept(ModBlocks.dark_flame_block.get());
 
                 pOutput.accept(Items.DIAMOND);
 

@@ -20,7 +20,7 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS =
         DeferredRegister.create(ForgeRegistries.BLOCKS, Chicken.MODID);
 
-    public static final RegistryObject<Block> TEST_BLOCK = registerBlock("test_block", 
+    public static final RegistryObject<Block> dark_flame_block = registerBlock("dark_flame_block", 
         () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
 
     
