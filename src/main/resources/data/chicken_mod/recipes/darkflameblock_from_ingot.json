@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern":[
+        "###",
+        "###",
+        "###"
+    ],
+
+    "key": {
+        "#":{
+            "item": "chicken_mod:dark_flame"
+        }
+    },
+
+    "result":{
+        "item": "chicken_mod:dark_flame_block"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients":[
+        {
+        "item": "chicken_mod:dark_flame_block"
+    }],
+
+    "result":{
+        "item": "chicken_mod:dark_flame",
+        "count": 9
+    }
+}

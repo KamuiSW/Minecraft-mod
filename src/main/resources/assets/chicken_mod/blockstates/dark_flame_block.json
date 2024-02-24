@@ -1,7 +1,7 @@
 {
     "variants":{
         "":{
-            "model": "chicken_mod:block/test_block"
+            "model": "chicken_mod:block/dark_flame_block"
         }
     }
 }
